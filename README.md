@@ -11,7 +11,7 @@ API key stored securely in `.env`
 
 ---
 
-## 🛠 Installation & Setup
+## Installation & Setup
 
 1️⃣ Clone the Repository
 
@@ -35,20 +35,20 @@ REACT_APP_OMDB_API_KEY=your_api_key_here
 5️⃣ Start the Development Server
 npm start
 
-Usage
+## Usage
 
   Type a movie title in the search bar and click Search.
   Browse movie results with posters and release years.
   Click Load More to fetch additional results.
 
-Technologies Used
+## Technologies Used
 
   React (Frontend)
   Axios (API requests)
   CSS (Styling)
   OMDb API (Movie data)
 
-Project Status
+## Project Status
 
 This project is part of my portfolio and is not open for contributions.
 
