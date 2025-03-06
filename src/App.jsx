@@ -47,7 +47,7 @@ const App = () => {
   return (
     <div className="container">
       <h1 className="title">Movie Search</h1>
-
+      <p>Search for any movie to get title and year of release</p>
       <div className="search-bar">
         <input
           type="text"
