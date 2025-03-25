@@ -1,3 +1,5 @@
+/* search bar */
+
 .search-bar{
   text-align: center;
   color: white;
@@ -28,6 +30,8 @@
 .search-bar button:hover {
   background-color: #ffce64;
 }
+
+/* movie grid */
 
 .movie-grid {
   display: grid;
